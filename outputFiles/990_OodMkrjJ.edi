@@ -1,0 +1,29 @@
+{
+  "shipmentId": "ABC",
+  "shipmentNumber": "12345",
+  "transactionType": {
+    "transactionSet": "990",
+    "controlNumber": "0001"
+  },
+  "shipFrom": {
+    "name": "CARRIER NAME",
+    "street": "789 SECONDARY STREET",
+    "city": "OTHERTOWN",
+    "state": "CA",
+    "zip": "54321"
+  },
+  "shipTo": {
+    "name": "COMPANY NAME",
+    "street": "456 MAIN STREET",
+    "city": "ANYTOWN",
+    "state": "NY",
+    "zip": "12345"
+  },
+  "items": [],
+  "stopoffName": "123456789",
+  "referenceNumber": "TEST REFERENCE",
+  "depotLocation": "TEST LOCATION",
+  "trailerNumber": "TEST TRAILER",
+  "orderNumber": "12345",
+  "quantityShipped": "10"
+}
